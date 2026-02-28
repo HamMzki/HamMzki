@@ -1,45 +1,53 @@
 <h1 align="center">Hi, I'm Ilham 👋</h1>
 
 <p align="center">
-Flutter Developer | Learning Laravel API | Future Fullstack Mobile Developer
+  <b>Flutter Developer</b> • Learning Laravel API • Future Fullstack Mobile Developer
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💙 Focused on Flutter Development
-- 🔌 Currently learning Flutter + Laravel API integration
-- 📱 Building mobile apps with clean UI and structured architecture
-- 🎯 Goal: Master Fullstack Mobile Development before internship (PKL)
+- 💙 Passionate about Mobile Development with Flutter  
+- 🔌 Currently learning Flutter + Laravel REST API integration  
+- 🧠 Focused on clean architecture and structured state management  
+- 🎯 Target: Ready for internship (PKL) with full CRUD + Auth app  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Mobile Development**
-- Flutter
-- Dart
-- GetX
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-**Backend & Web**
-- Laravel (Learning)
-- PHP
-- MySQL
-- REST API
+### 🌐 Backend & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,html,css,js" />
+</p>
 
-**Design Tools**
-- Figma
-- Canva
-- CorelDRAW
+### 🎨 Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,github" />
+</p>
 
 ---
 
-## 📌 Current Projects
+## 📌 Highlight Projects
 
-- 📱 Product Management App (Flutter + Laravel API)
-- ✅ To-Do List App (GetX + Local Storage)
-- 🛍 ham_store (E-commerce UI Concept)
+- 📦 **Product Management App**  
+  Flutter + Laravel API (CRUD + Authentication)
+
+- ✅ **To-Do List App**  
+  GetX + Local Storage (SharedPreferences)
+
+- 🛍 **ham_store**  
+  E-commerce UI Concept with Carousel & GridView
 
 ---
 
@@ -47,11 +55,19 @@ Flutter Developer | Learning Laravel API | Future Fullstack Mobile Developer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- Email: your_email_here
-- LinkedIn: (optional)
+- 📧 Email: your_email_here
+- 💼 LinkedIn: (optional)
+
+---
+
+<p align="center">
+  <i>Consistent progress beats motivation.</i>
+</p>
